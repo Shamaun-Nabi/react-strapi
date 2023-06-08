@@ -22,6 +22,15 @@ const SingleProduct = () => {
             <p className="text-slate-400">
               Category: <span>smartphone</span>
             </p>
+            <div className="flex justify-center">
+              <span className="px-4 border border-slate-300 cursor-pointer">
+                +
+              </span>
+              <span className="px-3">5</span>
+              <span className="px-4 border border-slate-300 cursor-pointer">
+                -
+              </span>
+            </div>
             <div className="card-actions justify-end">
               <button className="btn btn-primary">Add to Cart</button>
             </div>
