@@ -6,7 +6,7 @@ import Banner from "./Banner/Banner";
 const Home = () => {
   return (
     <main>
-      <SingleProduct/>
+      {/* <SingleProduct/> */}
       <Banner />
       <Category />
       {/* <CategroryPage/> */}
