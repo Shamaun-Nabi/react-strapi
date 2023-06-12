@@ -1,4 +1,4 @@
-import BannerPhoto from "../../../assets/banner-img.png";
+import BannerPhoto from "../../../assets/products/watch-prod-3.webp";
 const Banner = () => {
   return (
     <>
